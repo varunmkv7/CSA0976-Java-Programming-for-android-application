@@ -1,1 +1,1 @@
-# CSA0976-Java-Programming-for-android-application
+# CSA0976-Java programming
